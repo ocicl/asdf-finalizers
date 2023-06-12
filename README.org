@@ -1,0 +1,9 @@
+* asdf-finalizers
+
+Enforced calling of finalizers for Lisp code
+
+|---------+-------------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/asdf/asdf-finalizers.git |
+| commit  | 7f537f6                                                     |
+| systems | asdf-finalizers                                             |
+|---------+-------------------------------------------------------------|
